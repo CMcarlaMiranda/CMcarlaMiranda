@@ -106,70 +106,18 @@ Cleengo es una aplicación web full-stack que revoluciona la forma en que las pe
 ### ✨ Características Principales
 
 #### 👥 Registro Dual Inteligente
-- Sistema completo de autenticación
-- Perfiles diferenciados cliente/proveedor
-- Dashboard personalizado para cada rol
-- Gestión de información y preferencias
 
 #### ⭐ Sistema de Suscripción Premium
-- Planes de mejora para proveedores
-- Mayor visibilidad en búsquedas
-- Características exclusivas y destacadas
-- Panel de gestión de suscripciones
 
 #### 💬 Chat en Tiempo Real
-- Comunicación directa cliente-proveedor
-- Historial de conversaciones
-- Notificaciones en tiempo real
 
 #### 📧 Sistema de Notificaciones
-- Emails automáticos de confirmación
-- Notificaciones de nuevos mensajes
-- Alertas de servicios programados
-- Comunicación profesional automatizada
 
 #### 🔍 Búsqueda Avanzada
-- Filtros por ubicación y servicios
-- Sistema de calificaciones y reseñas
-- Perfiles verificados de proveedores
-- Resultados optimizados
 
 #### 📊 Panel de Administración
-- Gestión completa de usuarios
-- Control de servicios y reservas
-- Estadísticas y métricas
-- Moderación de contenido
 
-### 🛠️ Stack Tecnológico
-
-**Frontend:** React, Next.js, Tailwind CSS, Context API  
-**Backend:** Node.js, Express, Socket.io  
-**Database:** PostgreSQL  
-**Authentication:** JWT + Bcrypt  
-**Realtime:** Socket.io  
-**Email:** Nodemailer  
-**Deployment:** Vercel  
-**Version Control:** Git & GitHub
-
-### 💡 Características Técnicas
-
-- 🎨 **Diseño Responsive**: Perfectamente adaptado para móviles, tablets y desktop
-- ⚡ **Optimización de Rendimiento**: Carga rápida y navegación fluida
-- 🔐 **Seguridad**: Autenticación robusta y protección de datos
-- 📱 **PWA Ready**: Funcionalidades de aplicación web progresiva
-- ♿ **Accesibilidad**: Cumple con estándares WCAG
-- 🌐 **SEO Optimizado**: Mejor posicionamiento en buscadores
-
-### 🎯 Mi rol en el proyecto
-
-Como **Frontend Developer**, fui responsable de:
-- Arquitectura y estructura del frontend con React/Next.js
-- Implementación de componentes reutilizables y escalables
-- Integración completa con el backend mediante APIs REST
-- Diseño responsive y optimización de UX/UI
-- Testing y debugging de funcionalidades
-- Deployment y configuración en Vercel
-
+**Stack:**  React • Next.js • Tailwind • Node.js • Express • PostgreSQL • Socket.io
 ---
 
 
