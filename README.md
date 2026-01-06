@@ -85,7 +85,7 @@ Soy una **Frontend Developer** apasionada por crear experiencias web excepcional
 
 ---
 
-## 🌟 Proyecto Destacado
+## 🌟 Proyectos Destacados
 
 <div align="center">
 
@@ -106,36 +106,85 @@ Cleengo es una aplicación web full-stack que revoluciona la forma en que las pe
 ### ✨ Características Principales
 
 #### 👥 Registro Dual Inteligente
+Sistema de registro diferenciado para clientes y proveedores de servicios, con validación completa de datos y verificación de email.
 
 #### ⭐ Sistema de Suscripción Premium
+Modelo de negocio freemium con planes de suscripción para proveedores, integrado con pasarela de pagos segura.
 
 #### 💬 Chat en Tiempo Real
+Comunicación instantánea entre clientes y proveedores mediante Socket.io, con historial de conversaciones y notificaciones push.
 
 #### 📧 Sistema de Notificaciones
+Alertas por email para eventos importantes como nuevas solicitudes, confirmaciones de servicio y actualizaciones de pedidos.
 
 #### 🔍 Búsqueda Avanzada
+Filtros por ubicación, tipo de servicio, precio y disponibilidad. Sistema de geolocalización para encontrar proveedores cercanos.
 
 #### 📊 Panel de Administración
+Dashboard completo con estadísticas, gestión de usuarios, moderación de servicios y reportes analíticos.
 
-**Stack:**  React • Next.js • Tailwind • Node.js • Express • PostgreSQL • Socket.io
+**Stack Tecnológico:**  
+React • Next.js • Tailwind CSS • Node.js • Express • PostgreSQL • Socket.io • Vercel
+
 ---
 
+<div align="center">
+
+# 💍 [Waleilla](https://github.com/CMcarlaMiranda/waleilla)
+
+### **E-commerce Premium de Anillos de Compromiso y Alianzas**
+
+*Plataforma de comercio electrónico especializada en joyería de alta calidad*
+
+[![Ver Repositorio](https://img.shields.io/badge/💎_Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CMcarlaMiranda/waleilla)
+
+</div>
+
+### 📋 Descripción
+
+Waleilla es una plataforma de e-commerce premium especializada en anillos de compromiso y alianzas matrimoniales. Diseñada para ofrecer una experiencia de compra elegante y sofisticada, combina diseño minimalista con funcionalidad robusta para ayudar a las parejas a encontrar la joya perfecta para su momento especial.
+
+### ✨ Características Principales
+
+#### 🛍️ Catálogo Premium
+Galería de productos con imágenes de alta calidad, zoom interactivo y múltiples vistas de cada producto. Filtros avanzados por material, precio, estilo y características.
+
+#### 💎 Personalización de Joyas
+Sistema completo de personalización que incluye selector de talla, opciones de grabado personalizado, configurador de materiales (oro, platino, plata) y selección de piedras preciosas.
+
+#### 🛒 Carrito y Checkout Optimizado
+Carrito de compras persistente con cálculo automático de envío, múltiples métodos de pago integrados y proceso de checkout simplificado en pocos pasos.
+
+#### 👤 Gestión de Usuarios
+Sistema completo de autenticación con perfiles personalizables, historial de compras, lista de favoritos y seguimiento de pedidos en tiempo real.
+
+#### 📱 Experiencia Mobile-First
+Diseño completamente responsive optimizado para dispositivos móviles, con navegación intuitiva y carga rápida de imágenes mediante lazy loading.
+
+#### 🔐 Seguridad y Confianza
+Autenticación segura con JWT, encriptación de datos sensibles, pasarela de pagos certificada (Stripe) y protección completa de información personal.
+
+**Stack Tecnológico:**  
+React • Next.js 14 • TypeScript • Tailwind CSS • Zustand • Node.js • Express • PostgreSQL • Prisma • Stripe • Cloudinary
+
+---
 
 ## 🎓 Aprendizaje Continuo
 
 ### 📚 Actualmente mejorando
-- TypeScript avanzado
-- Patrones de diseño en React
-- Arquitecturas escalables
-- Testing (Jest, React Testing Library)
-- Accesibilidad web (WCAG)
-- Performance optimization
+- TypeScript avanzado y tipos complejos
+- Patrones de diseño en React (Compound Components, Render Props)
+- Arquitecturas escalables y micro-frontends
+- Testing avanzado (Jest, React Testing Library, Cypress)
+- Accesibilidad web (WCAG 2.1)
+- Performance optimization y Core Web Vitals
 
 ### 🎯 Próximos objetivos
 - React Native para desarrollo móvil
-- GraphQL
-- Micro-frontends
-- Nuevas características de Next.js
+- GraphQL con Apollo Client
+- Arquitecturas serverless
+- Animaciones complejas con Framer Motion
+- State machines con XState
 
 ---
 
@@ -163,7 +212,7 @@ Cleengo es una aplicación web full-stack que revoluciona la forma en que las pe
 
 <div align="center">
 
-### ⭐ Si te gustó mi proyecto, no dudes en dejar una estrella!
+### ⭐ Si te gustaron mis proyectos, no dudes en dejar una estrella!
 
 **Hecho con 💜 y mucho ☕**
 
